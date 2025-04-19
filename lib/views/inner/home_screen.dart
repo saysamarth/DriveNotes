@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:drivenotes/controller/provider/auth_provider.dart';
 import 'package:drivenotes/controller/provider/notes_provider.dart';
 import 'package:drivenotes/controller/provider/theme_provider.dart';
-import 'package:drivenotes/views/notes_editor_screen.dart';
+import 'package:drivenotes/views/inner/notes_editor_screen.dart';
 import 'package:animations/animations.dart';
 
 class HomeScreen extends ConsumerWidget {
